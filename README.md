@@ -5,7 +5,7 @@ Algo:
 // intro
 Ask user's name
   Store name
-print "Nice to meet you [name]. Lets play a game\n"
+print "Nice to meet you [name]. Lets play a game\
 
 // setup
 int turn = 0
